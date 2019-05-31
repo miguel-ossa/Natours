@@ -1,5 +1,5 @@
 {
-  "name": "natours",
+  "name": "cage.json",
   "version": "1.0.0",
   "description": "Landing page for natours",
   "main": "index.js",
@@ -9,6 +9,15 @@
   "author": "Mossa",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.9.3"
-  }
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-ossa/Natours.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miguel-ossa/Natours/issues"
+  },
+  "homepage": "https://github.com/miguel-ossa/Natours#readme"
 }
